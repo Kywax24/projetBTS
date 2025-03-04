@@ -1,0 +1,101 @@
+Exo 21 :
+
+        Dim y As Int16
+        Dim x As Int16
+
+        Console.WriteLine("Programme qui nous donne le plus grand nombre")
+
+        Console.Write("Saisir un nombre x :")
+        x = Console.ReadLine()
+        Console.Write("Saisir un autre nombre y : ")
+        y = Console.ReadLine()
+
+        If x > y Then
+            Console.WriteLine("Le nombre " & x & " est supérieur au nombre " & y & ".")
+        Else
+            Console.WriteLine("Le nombre " & x & " est inférieur au nombre " & y & ".")
+        End If
+
+        Console.ReadLine()
+
+Exo 22 :
+
+  	Dim choixU As String
+        Dim choixOrdi As Integer
+        Dim rnd As New Random()
+
+        Console.WriteLine("Programme qui simule le jeu pile ou face")
+
+        Console.Write("Veuillez choisir entre P pour pile et F pour face :")
+        choixU = Console.ReadLine()
+
+        choixOrdi = rnd.Next(0, 2) ' Génère un nombre aléatoire 0 ou 1
+
+        If (choixU = "P" And choixOrdi = 0) Or (choixU = "F" And choixOrdi = 1) Then
+            Console.WriteLine("Vous avez gagné")
+        Else
+            Console.WriteLine("Vous avez perdu")
+        End If
+
+        Console.ReadLine()
+
+Exo 23 :
+
+        Dim max As Integer
+        Dim z As Integer
+        Dim y As Integer
+        Dim x As Integer
+
+        Console.WriteLine("Programme qui affiche le nombre max")
+
+        Console.Write("Saisir un premier nombre x :")
+        x = Console.ReadLine
+
+        Console.Write("Saisir un deuxième nombre y :")
+        y = Console.ReadLine
+
+        Console.Write("Saisir un troisième nombre z :")
+        z = Console.ReadLine
+
+        If x > y Then
+            max = x
+        Else
+            max = y
+        End If
+
+        If z > max Then
+            max = z
+        End If
+
+        Console.WriteLine("Le nombre maximum est : " & max)
+        Console.ReadLine()
+
+Exo 24 :
+
+        Dim y As Int16
+        Dim x As Int16
+
+        Console.WriteLine("Programme qui nous donne le plus grand nombre")
+
+        Console.Write("Saisir un nombre x :")
+        x = Console.ReadLine()
+        Console.Write("Saisir un autre nombre y : ")
+        y = Console.ReadLine()
+
+        If x = y Then
+            Console.WriteLine("Le nombre " & x & " est égal au nombre " & y & ".")
+        ElseIf x > y Then
+            Console.WriteLine("Le nombre " & x & " est supérieur au nombre " & y & ".")
+        ElseIf x < y Then
+            Console.WriteLine("Le nombre " & x & " est inférieur au nombre " & y & ".")
+        End If
+        Console.ReadLine()
+
+Exo 25 : 
+
+Dim NombreDheure, SalaireHoraire, anciennete As Integer
+        Const tauxRetenue As Double = 0.19
+        Dim tauxPrime As Double
+
+        Console.WriteLine("Programme qui vous donne le salaire d'un employé")
+... (22 lignes restantes)
