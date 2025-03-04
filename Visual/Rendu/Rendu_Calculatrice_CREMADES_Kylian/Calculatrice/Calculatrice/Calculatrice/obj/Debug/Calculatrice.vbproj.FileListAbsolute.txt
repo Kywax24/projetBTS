@@ -1,0 +1,11 @@
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.AssemblyReference.cache
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.cache
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.CoreCompileInputs.cache
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+U:\PARISOT\Algo-Dev\Visual\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
