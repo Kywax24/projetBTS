@@ -1,0 +1,11 @@
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\bin\Debug\exo2.exe.config
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\bin\Debug\exo2.exe
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\bin\Debug\exo2.pdb
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\bin\Debug\exo2.xml
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.vbproj.AssemblyReference.cache
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.Resources.resources
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.vbproj.GenerateResource.cache
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.vbproj.CoreCompileInputs.cache
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.exe
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.xml
+U:\slam\Base de la prog visual basic\algo\exo2\exo2\obj\Debug\exo2.pdb
