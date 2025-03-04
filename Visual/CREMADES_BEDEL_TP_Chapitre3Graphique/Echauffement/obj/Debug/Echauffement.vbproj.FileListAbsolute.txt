@@ -1,0 +1,12 @@
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\bin\Debug\Echauffement.exe.config
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\bin\Debug\Echauffement.exe
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\bin\Debug\Echauffement.pdb
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\bin\Debug\Echauffement.xml
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.vbproj.AssemblyReference.cache
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.Echauffement.resources
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.Resources.resources
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.vbproj.GenerateResource.cache
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.vbproj.CoreCompileInputs.cache
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.exe
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.xml
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Echauffement\obj\Debug\Echauffement.pdb

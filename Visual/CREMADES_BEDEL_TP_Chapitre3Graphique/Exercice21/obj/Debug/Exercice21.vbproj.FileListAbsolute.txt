@@ -1,0 +1,11 @@
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\bin\Debug\Exercice21.exe.config
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\bin\Debug\Exercice21.exe
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\bin\Debug\Exercice21.pdb
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\bin\Debug\Exercice21.xml
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.Exercice21.resources
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.Resources.resources
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.vbproj.GenerateResource.cache
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.vbproj.CoreCompileInputs.cache
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.exe
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.xml
+U:\PARISOT\Algo-Dev\Visual\CREMADES_BEDEL_TP_Chapitre3Graphique\Exercice21\obj\Debug\Exercice21.pdb
